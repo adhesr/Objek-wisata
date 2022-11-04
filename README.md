@@ -1,6 +1,6 @@
 # objek_wisata
 
-A new Flutter project.
+Adhe Surya Chandra Saputra
 
 ## Getting Started
 
